@@ -1,0 +1,17 @@
+.SearchShipment {
+float: left;
+margin-top: 20px;
+}
+.ss-form{
+  text-align: left;
+}
+
+.sslabel{
+  right: 150px;
+}
+.padBelow{
+  padding-bottom: 20px;
+}
+.inputLength{
+  width: 125px;
+}
